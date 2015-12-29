@@ -9,6 +9,8 @@ It uses the Flask framework and offers inbuilt Unit testing, E2E testing and Con
 
 ###Installation
 
+[![Join the chat at https://gitter.im/Leo-G/Flask-Scaffold](https://badges.gitter.im/Leo-G/Flask-Scaffold.svg)](https://gitter.im/Leo-G/Flask-Scaffold?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Please ensure that development libraries for [PostgreSQL](http://techarena51.com/index.php/flask-sqlalchemy-postgresql-tutorial/) are installed.
 
 ####Step 1:Clone the project to your application folder.
